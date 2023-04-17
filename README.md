@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on ... Android App Development
+- 🔭 I’m currently working on ... Android App Development
 - 🌱 I’m currently learning ...Kotlin and New Technology
 - 👯 I’m looking to collaborate on ... Community Build for Technology product and contributes more and more in society.
 <!--

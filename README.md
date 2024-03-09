@@ -1,5 +1,5 @@
 ### 
-- 👋 Hi I'm Surendra Patel 
+- 👋 Hi I'm Surendra Kumar Patel 
 - 🔭 I’m currently working on Android App Development
 - 🌱 I’m currently learning Kotlin and New Technology
 - 👯 I’m looking to collaborate on Community Build for Technology products and contribute more and more to society.
